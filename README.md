@@ -2,7 +2,7 @@
 
 A modern, responsive job portal website built with HTML, CSS, and JavaScript. JobHunt connects job seekers with employers, providing a seamless platform for finding and posting job opportunities.
 
-![JobHunt Logo](images/logo-placeholder.png)
+
 
 ---
 
